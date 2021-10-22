@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @shikha176
 - 👀 I’m interested in Full Stack Development
 - 🌱 I’m currently learning React.js (30 days 30 apps)
-- 💞️ I’m looking to collaborate on 
 - 📫 Reach me on https://www.linkedin.com/in/shikha-gupta-0a044988/
 
 <!---
